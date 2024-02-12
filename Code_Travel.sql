@@ -1,4 +1,5 @@
-#ENUNCIADO 1: CREACIÓN DE LA BASE DE DATOS DENOMINADA TF_BASES
+#ENUNCIADO 1: 
+-- Creación de la base de datos denominada 
 
 CREATE DATABASE TF_BASES
 
@@ -147,19 +148,20 @@ GROUP BY dp.ID_EDICION
 ORDER BY dp.ID_EDICION ASC);
 
 -- Apartado 5.c)
-SELECT  p.PROVINCIA AS Provincia, COUNT(*) AS Viajes_misma_provincia
+
+SELECT  p.PROVINCIA AS Provincia, SUM(dp.CANT_VIAJES) AS Viajes_misma_provincia
 FROM datos_previaje dp
-JOIN provincia_previaje p ON dp.ID_PROVINCIA_ORIGEN = p.ID_PROVINCIA
-WHERE ID_PROVINCIA_ORIGEN = ID_PROVINCIA_DESTINO
-GROUP BY Provincia
-ORDER BY Viajes_misma_provincia DESC
+     JOIN provincia_previaje p ON dp.ID_PROVINCIA_ORIGEN = p.ID_PROVINCIA
+     WHERE dp.ID_PROVINCIA_ORIGEN = dp.ID_PROVINCIA_DESTINO
+     GROUP BY Provincia
+	 ORDER BY Viajes_misma_provincia DESC
 LIMIT 5;
 
 -- Apartado 5.d)
 
 SELECT
     Región_Destino,
-    CASE WHEN Edición IS NULL THEN 'Subtotales' ELSE 'Edición' END AS Edición,
+    CASE WHEN Edición IS NULL THEN 'Subtotales' ELSE Edición END AS Edición,
     CONCAT(ROUND(SUM(Porcentaje_sobre_Total), 2), '%') AS Total_Porcentaje_sobre_Total,
     CONCAT(ROUND(SUM(Porcentaje_Región_Destino), 2), '%') AS Total_Porcentaje_Región_Destino
 FROM (
