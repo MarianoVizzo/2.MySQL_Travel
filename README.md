@@ -1,11 +1,7 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh6d2xkd21mdDY5c2pvNWd2d2diMDMyM3E0MG5mY3ZwdTRiaDB3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" />
-    <h1 align="center">PROYECTO: MySQL APLICADO A UNA BASE DE DATOS DENOMINADA "PREVIAJE </h1>
-    <h3 align="center"> 🚀 A passionate Data Analyst and future Data Scientist  🚀 </h3>
-</div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JuMjk2aG0zY3dlZzFoNmZjbjN2dnE2cWd4ZnN5MnVzbDRkd21pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhlboG0kGaiCx1D9cd/giphy.gif" width="200" />
+    <h1 align="center"> PROYECTO: MySQL APLICADO A UNA BASE </h1>
 
-<h3 align="center"> 🚀 PROYECTO: MySQL APLICADO A UNA BASE DE DATOS DENOMINADA "PREVIAJE" 🚀 </h3>
-# PROYECTO: MySQL APLICADO A UNA BASE DE DATOS DENOMINADA "PREVIAJE"
 
 ## CARACTERÍSTICAS DEL PROGRAMA PREVIAJE
 
