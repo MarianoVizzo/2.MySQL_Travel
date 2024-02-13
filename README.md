@@ -27,6 +27,6 @@
 ## D. ¿CÓMO LEER/UTILIZAR LOS ARCHIVOS?
 1) Utilizar la base de datos denominada "viajes_origen_destino_mes.csv".
 2) Ejecutar el script denominado "CODE_Travel.sql"
-3) Visualizar el Diagrama de Modelo Lógico (DER).
+3) Visualizar el Diagrama de Modelo Lógico (DER) en Workbench.
 4) Análisis de resultados en el archivo denominado "Informe_Enunciados y Resoluciones.pdf"
 
