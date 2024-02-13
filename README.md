@@ -1,14 +1,14 @@
-<div id="header" align="center">
-    
-    <h1 align="center"> EDICIONES DE PREVIAJE </h1>
-    <h3 align="center"> 🚀 A passionate Data Analyst and future Data Scientist  🚀 </h3>
-</div>
+# MySQL APLICADO A UNA BASE DE DATOS DENOMINADA "PREVIAJE"
 
+## CONTEXTO DEL PROGRAMA PREVIAJE
+- El Programa "Previaje" fue creado en 2021 para fomentar la reactivación de ese sector afectado por las restricciones impuestas por la pandemia de coronavirus.
+- El "Previaje" es un programa de preventa turística que reintegra el 50% del valor de un viaje en crédito. Las personas que compren por anticipados sus pasajes, excursiones o alojamientos tendrán un crédito del 50% de sus gastos para consumir durante sus vacaciones.
+- El “dinero virtual” que reciben las personas es financiado por el Estado Argentino para incentivar el turismo dentro del país.
 
-## 👨‍💻 About me
+## OBJETIVOS DEP PROGRAMA PREVIAJE
+1) Fomentar los viajes en temporadas medias y bajas.
+2) Focalizar en que puedan utilizarlo personas que habitualmente no tienen la posibilidad de viajar.
+3) Promover destinos turísticos no convencionales.
 
-- 📊 My passion is turning data into stories in order to extract insights that allow informed and strategic business decisions to be made.
-- 📗 As I’m a lifelong learner, I’m studying two postgraduate degrees: a Master's Degree in Financial Data Management and Analysis, and a Specialization in Quantitative Methods for Data Management and Analysis in Organizations at the University of Buenos Aires.
-- 🔎 At this moment, my goal is to find a professional opportunity or be part of projects that allow me to put my skills and knowledge in Data Analysis into practice, contributing to the achievement of defined objectives.
-- 📫 If you want to contact me, you can write to me directly on mail mariano_vizzo@hotmail.com / marianovizzo@gmail.com
-<br>
+## CONJUNTO DE DATOS
+Los datos se obtuvieron de 
