@@ -1,4 +1,11 @@
-# MySQL APLICADO A UNA BASE DE DATOS DENOMINADA "PREVIAJE"
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh6d2xkd21mdDY5c2pvNWd2d2diMDMyM3E0MG5mY3ZwdTRiaDB3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" />
+    <h1 align="center">Hi, I'm Mariano 👋 </h1>
+    <h3 align="center"> 🚀 A passionate Data Analyst and future Data Scientist  🚀 </h3>
+</div>
+
+<h3 align="center"> 🚀 PROYECTO: MySQL APLICADO A UNA BASE DE DATOS DENOMINADA "PREVIAJE" 🚀 </h3>
+# PROYECTO: MySQL APLICADO A UNA BASE DE DATOS DENOMINADA "PREVIAJE"
 
 ## CARACTERÍSTICAS DEL PROGRAMA PREVIAJE
 
@@ -12,11 +19,11 @@
 2) Focalizar en que puedan utilizarlo personas que habitualmente no tienen la posibilidad de viajar.
 3) Promover destinos turísticos no convencionales.
 
-## CONJUNTO DE DATOS
+## CONJUNTOS DE DATOS
 - Los datos se obtuvieron de https://www.datos.gob.ar/dataset/turismo-previaje.
 - Los datos refieren a registros correspondientes a las ediciones de "Previaje" desarrolladas en 2021 y 2022.
 
-## OBJETIVO DEL PROYECTO
+## OBJETIVOS DEL PROYECTO
 1) Aplicar MySQL a una base de datos.
 2) Aplicar consultas simples y complejas para obtener información relevante.
 3) Analizar e interpretar los resultados obtenidos.
