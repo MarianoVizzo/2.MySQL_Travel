@@ -3,30 +3,30 @@
     <h1 align="center"> PROJECT: MySQL APPLIED TO A DATABASE </h1>
 </div>
 
-## A. PROGRAM FEATURES "PREVIAJE"
+## A. CHARACTERISTICS OF THE "PREVIAJE" PROGRAM
 
-### CONTEXTO DEL PROGRAMA "PREVIAJE"
-- El Programa "Previaje" fue creado en 2021 para fomentar la reactivación de ese sector afectado por las restricciones impuestas por la pandemia de coronavirus.
-- El "Previaje" es un programa de preventa turística que reintegra el 50% del valor de un viaje en crédito. Las personas que compren por anticipados sus pasajes, excursiones o alojamientos tendrán un crédito del 50% de sus gastos para consumir durante sus vacaciones.
-- El “dinero virtual” que reciben las personas es financiado por el Estado Argentino para incentivar el turismo dentro del país.
+### CONTEXT OF THE "PREVIAJE" PROGRAM
+- The "Previaje" Program was created in 2021 to promote the recovery of the tourism sector affected by the restrictions imposed by the coronavirus pandemic.
+- "Previaje" is a tourism pre-sale program that reimburses 50% of the value of a trip in credit. People who purchase their tickets, excursions, or accommodations in advance will have a credit equivalent to 50% of their expenses to use during their vacations.
+- The "virtual money" that people receive is financed by the Argentine State to encourage tourism within the country.
 
-### OBJETIVOS DEL PROGRAMA "PREVIAJE"
-1) Fomentar los viajes en temporadas medias y bajas.
-2) Focalizar en que puedan utilizarlo personas que habitualmente no tienen la posibilidad de viajar.
-3) Promover destinos turísticos no convencionales.
+### OBJETIVES OF THE "PREVIAJE" PROGRAM
+1) Encourage travel during off-peak and shoulder seasons.
+2) Target individuals who typically do not have the opportunity to travel.
+3) Promote non-conventional tourist destinations.
 
-## B. CONJUNTOS DE DATOS
-- Los datos se obtuvieron de https://www.datos.gob.ar/dataset/turismo-previaje.
-- Los datos refieren a registros correspondientes a las ediciones de "Previaje" desarrolladas en 2021 y 2022.
+## B. DATA SETS
+- The data was obtained from https://www.datos.gob.ar/dataset/turismo-previaje.
+- The data pertains to records corresponding to the editions of "Previaje" developed in 2021 and 2022
 
-## C. OBJETIVOS DEL PROYECTO
-1) Aplicar MySQL a una base de datos.
-2) Aplicar consultas simples y complejas para obtener información relevante.
-3) Analizar e interpretar los resultados obtenidos.
+## C. PROJECT OBJECTIVES
+1) Apply MySQL to a database.
+2) Apply simple and complex queries to obtain relevant information.
+3) Analyze and interpret the results obtained.
 
-## D. ¿CÓMO LEER/UTILIZAR LOS ARCHIVOS?
-1) Utilizar la base de datos denominada "viajes_origen_destino_mes.csv".
-2) Ejecutar el script denominado "CODE_Travel.sql"
-3) Visualizar el Diagrama de Modelo Lógico (DER) en Workbench.
-4) Análisis de resultados en el archivo denominado "Informe_Enunciados y Resoluciones.pdf"
+## D. HOW TO READ/USE THE FILES?
+1) Use the database named "viajes_origen_destino_mes.csv".
+2) Execute the script named "CODE_Travel.sql".
+3) View the Logical Model Diagram (ERD) in Workbench.
+4) Analysis of results in the file named "Report_Statements and Resolutions.pdf".
 
