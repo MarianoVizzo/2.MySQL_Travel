@@ -1,9 +1,9 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN0dTQzaHN5M3E5bG5pYnBmNjkyb3IwOGF6bmVlMG95OGZ2cjU3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AErExHJVxRbkm5hPkB/giphy.gif" width="200" />
-    <h1 align="center"> PROYECTO: MySQL APLICADO A UNA BASE DE DATOS </h1>
+    <h1 align="center"> PROJECT: MySQL APPLIED TO A DATABASE </h1>
 </div>
 
-## A. CARACTERÍSTICAS DEL PROGRAMA PREVIAJE
+## A. PROGRAM FEATURES "PREVIAJE"
 
 ### CONTEXTO DEL PROGRAMA "PREVIAJE"
 - El Programa "Previaje" fue creado en 2021 para fomentar la reactivación de ese sector afectado por las restricciones impuestas por la pandemia de coronavirus.
