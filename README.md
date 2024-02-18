@@ -3,11 +3,11 @@
     <h1 align="center"> PROJECT: MySQL APPLIED TO A DATABASE </h1>
 </div>
 
-## A. CHARACTERISTICS OF THE "PREVIAJE" PROGRAM
+## A. CHARACTERISTICS OF THE *"PREVIAJE"* PROGRAM
 
-### CONTEXT OF THE "PREVIAJE" PROGRAM
-- The "Previaje" Program was created in 2021 to promote the recovery of the tourism sector affected by the restrictions imposed by the coronavirus pandemic.
-- "Previaje" is a tourism pre-sale program that reimburses 50% of the value of a trip in credit. People who purchase their tickets, excursions, or accommodations in advance will have a credit equivalent to 50% of their expenses to use during their vacations.
+### CONTEXT OF THE *"PREVIAJE"* PROGRAM
+- The *"Previaje"* Program was created in 2021 to promote the recovery of the tourism sector affected by the restrictions imposed by the coronavirus pandemic.
+- *"Previaje"* is a tourism pre-sale program that reimburses 50% of the value of a trip in credit. People who purchase their tickets, excursions, or accommodations in advance will have a credit equivalent to 50% of their expenses to use during their vacations.
 - The "virtual money" that people receive is financed by the Argentine State to encourage tourism within the country.
 
 ### OBJETIVES OF THE "PREVIAJE" PROGRAM
