@@ -10,10 +10,10 @@
 - *"Previaje"* is a tourism pre-sale program that reimburses 50% of the value of a trip in credit. People who purchase their tickets, excursions, or accommodations in advance will have a credit equivalent to 50% of their expenses to use during their vacations.
 - The "virtual money" that people receive is financed by the Argentine State to encourage tourism within the country.
 
-### OBJETIVES OF THE "PREVIAJE" PROGRAM
-1) Encourage travel during off-peak and shoulder seasons.
-2) Target individuals who typically do not have the opportunity to travel.
-3) Promote non-conventional tourist destinations.
+### OBJETIVES OF THE *"PREVIAJE"* PROGRAM
+1. Encourage travel during off-peak and shoulder seasons.
+2. Target individuals who typically do not have the opportunity to travel.
+3. Promote non-conventional tourist destinations.
 
 ## B. DATA SETS
 - The data was obtained from https://www.datos.gob.ar/dataset/turismo-previaje.
