@@ -30,3 +30,6 @@
 3) View the Logical Model Diagram (ERD) in Workbench.
 4) Analysis of results in the file named "Report_Statements and Resolutions.pdf".
 
+## E. ABOUT THE PROJECT
+
+- This project was developed as part of my Data Scientist career at Coderhouse as the Final Project.
