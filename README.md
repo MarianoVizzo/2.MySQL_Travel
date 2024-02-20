@@ -17,7 +17,7 @@
 
 ## B. DATA SETS
 - The data was obtained from https://www.datos.gob.ar/dataset/turismo-previaje.
-- The data pertains to records corresponding to the editions of "Previaje" developed in 2021 and 2022.
+- The data pertains to records corresponding to the editions of *"Previaje"* developed in 2021 and 2022.
 
 ## C. PROJECT OBJECTIVES
 1) Apply MySQL to a database.
