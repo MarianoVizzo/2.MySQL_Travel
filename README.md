@@ -19,12 +19,10 @@
 - The data was obtained from https://www.datos.gob.ar/dataset/turismo-previaje.
 - The data pertains to records corresponding to the editions of *"Previaje"* developed in 2021 and 2022.
 
-
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1kMWxzOGEzaDJiNTdrZXkzbDJ4eng5ZXo5NmQybjNyMDBubGdxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="200" />
-</div>
-
 ## C. PROJECT OBJECTIVES
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1kMWxzOGEzaDJiNTdrZXkzbDJ4eng5ZXo5NmQybjNyMDBubGdxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="300" />
+</div>
 1) Apply MySQL to a database.
 2) Apply simple and complex queries to obtain relevant information.
 3) Analyze and interpret the results obtained.
