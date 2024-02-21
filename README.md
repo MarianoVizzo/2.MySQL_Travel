@@ -35,4 +35,6 @@
 3) View the Logical Model Diagram (ERD) in Workbench.
 4) Analysis of results in the file named "Report_Statements and Resolutions.pdf".
 
+## E. ABOUT THE PROJECT
+- This project was developed in my postgraduate career of *Specialization in Quantitative Methods and Data Analysis in Organizations* at the *University of Buenos Aires*.
 
